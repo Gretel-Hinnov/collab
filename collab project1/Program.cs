@@ -1,4 +1,4 @@
-﻿namespace collab_project
+﻿namespace project2
 {
     internal class Program
     {
